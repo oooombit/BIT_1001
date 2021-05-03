@@ -1,0 +1,19 @@
+{
+    "name": "BIT",
+    "version": "0.3.1",
+    "description": "Blocks for Robot BIT_program",
+    "license": "MIT",
+    "dependencies": {
+        "core": "file:../core",
+        "microphone": "file:../microphone"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "hicbitRGBLight.ts",
+        "sendbuffer.asm",
+        "_locales/zh/BIT-strings.json",
+        "_locales/zh/BIT-jsdoc-strings.json"
+    ],
+    "public": true
+}
